@@ -2,7 +2,7 @@
 
 This is a environment to be loaded with the [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader).
 
-It's recommended to coldboot into EnvironmentLoader (and Tiramisu) via the [PayloadLoader](https://github.com/wiiu-env/PayloadLoaderInstaller). Check it our for more information.
+It's recommended to coldboot into EnvironmentLoader (and Tiramisu) via the [PayloadLoader](https://github.com/wiiu-env/PayloadLoaderInstaller). Check the repository out for more information.
 
 ## Whats Tiramisu
 
