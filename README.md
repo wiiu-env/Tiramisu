@@ -28,7 +28,7 @@ On the first boot the autboot menu will open, navigate with the gamepad to the t
  
 ## Download
 
-A bundle with the latest nightlies can be downloaded [here](https://tiramisu.foryour.cafe/package/tiramisu) by clicking on "Donwload all".
+A bundle with the latest nightlies can be downloaded [here](https://tiramisu.foryour.cafe/package/tiramisu) by clicking on "Download all".
  
 ## Credits
 
