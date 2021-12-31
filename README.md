@@ -18,6 +18,7 @@ Paired with the [PayloadLoader](https://github.com/wiiu-env/PayloadLoaderInstall
 ## Usage
 - Place the `00_mocha.rpx` from [Mocha](https://github.com/wiiu-env/MochaPayload) in the `sd:/wiiu/environments/tiramisu/modules/setup` folder.
 - Place the `50_hbl_installer.rpx` from the [Homebrew Launcher installer](https://github.com/wiiu-env/HBLInstallerWrapper) in the `sd:/wiiu/environments/tiramisu/modules/setup` folder.
+- Place the `homebrew_launcher.elf` from [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher) in the `sd:/wiiu/apps/homebrew_launcher` folder.
 - Place the `99_autoboot.rpx` from the [AutobootModule](https://github.com/wiiu-env/AutobootModule) in the `sd:/wiiu/environments/tiramisu/modules/setup` folder.
 - (optional) Place any additional setup modules into `sd:/wiiu/environments/tiramisu/modules/setup` like [Bloopair](https://github.com/GaryOderNichts/Bloopair) or [USBSerialLogger](https://github.com/wiiu-env/USBSerialLogger).
 
@@ -27,7 +28,7 @@ On the first boot the autboot menu will open, navigate with the gamepad to the t
  
 ## Download
 
-A bundle with the latest nightlies can be downloaded here: [https://tiramisu.foryour.cafe/](https://tiramisu.foryour.cafe/)
+A bundle with the latest nightlies can be downloaded [here](https://tiramisu.foryour.cafe/package/tiramisu) by clicking on "Donwload all".
  
 ## Credits
 
