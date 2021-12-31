@@ -32,7 +32,7 @@ A bundle with the latest nightlies can be downloaded [here](https://tiramisu.for
  
 ## Credits
 
-- Maschell (EnvironmentLoader, HBLInstallerWrapper, MochaPayload, PayloadLoader + PayloadLoaderInstaller, ...)
-- GaryOderNichts (AutobootModule)
+- Maschell (EnvironmentLoader, HBLInstallerWrapper, MochaPayload, PayloadLoader + PayloadLoaderInstaller, AutobootModule, ...)
+- GaryOderNichts (AutobootModule, PayloadLoaderInstaller)
 - dimok (mocha / homebrew launcher)
 - pwsincd (logo)
