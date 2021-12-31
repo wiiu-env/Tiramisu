@@ -1,6 +1,4 @@
-# Tiramisu Environment
-
-![Tiramisu Logo](logo.png)
+# Tiramisu Environment | <img src="logo.png" width="50">
 
 This is a environment to be loaded with the [EnvironmentLoader](https://github.com/wiiu-env/EnvironmentLoader).
 
