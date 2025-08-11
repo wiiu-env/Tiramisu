@@ -4,10 +4,10 @@ This is a environment to be loaded with the [EnvironmentLoader](https://github.c
 
 It's recommended to coldboot into EnvironmentLoader (and Tiramisu) via the [PayloadLoader](https://github.com/wiiu-env/PayloadLoaderInstaller). Check the repository out for more information.
 
-## Whats Tiramisu
+## What is Tiramisu?
 
 Tiramisu is modular legacy environment for the Wii U. The automatically runs a CFW (modified version of [Mocha](https://github.com/wiiu-env/MochaPayload)), allows you to boot the [homebrew channel](https://github.com/dimok789/homebrew_launcher) and provides a autoboot menu.
-Paired with the [PayloadLoader](https://github.com/wiiu-env/PayloadLoaderInstaller) it's a free and modular [CBHC](https://github.com/FIX94/haxchi) alternative, with some extra features like full support for the quickstart menu of the Gamepad and blocking updates.
+Paired with the [PayloadLoader](https://github.com/wiiu-env/PayloadLoaderInstaller) it's a free and modular [CBHC](https://github.com/FIX94/haxchi) alternative, with some extra features like full support for the quickstart menu of the Wii U GamePad and blocking updates.
 
 ## Content
 
@@ -22,9 +22,9 @@ Paired with the [PayloadLoader](https://github.com/wiiu-env/PayloadLoaderInstall
 - Place the `99_autoboot.rpx` from the [AutobootModule](https://github.com/wiiu-env/AutobootModule) in the `sd:/wiiu/environments/tiramisu/modules/setup` folder.
 - (optional) Place any additional setup modules into `sd:/wiiu/environments/tiramisu/modules/setup` like [Bloopair](https://github.com/GaryOderNichts/Bloopair) or [USBSerialLogger](https://github.com/wiiu-env/USBSerialLogger).
 
-On the first boot the autboot menu will open, navigate with the gamepad to the title you want to launch. 
+On the first boot the autoboot menu will open, navigate with the GamePad to the title you want to launch. 
  - Press Y to select autoboot title.
- - Hold START (+) on the Gamepad while launching the environment to force open the autoboot menu.#
+ - Hold START (+) on the GamePad while launching the environment to force open the autoboot menu.
  
 ## Download
 
